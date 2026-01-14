@@ -17,7 +17,8 @@ This repository contains my **daily Python practice code**, where I learn Python
 - **Day 02**: Tuples, lists, and list slicing  
 - **Day 03**: Nested dictionaries and conditional statements
 - **Day 04**: list sorting and average
-- **Da4 05**: python patterns with strings and numbers
+- **Day 05**: python patterns with strings and numbers
+- **Day 06**: building a resume builder with python
 
 (More days coming 🚀)
 
