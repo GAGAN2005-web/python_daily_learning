@@ -19,6 +19,7 @@ This repository contains my **daily Python practice code**, where I learn Python
 - **Day 04**: list sorting and average
 - **Day 05**: python patterns with strings and numbers
 - **Day 06**: building a resume builder with python
+- **Day 07**: Dictionary of lists, Loops,Menu system,Nested data
 
 (More days coming 🚀)
 
