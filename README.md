@@ -21,7 +21,7 @@ This repository contains my **daily Python practice code**, where I learn Python
 - **Day 06**: building a resume builder with python
 - **Day 07**: Dictionary of lists, Loops,Menu system,Nested data
 - **Day 08**: Lists & Sorting,Dictionaries,Input / Output,Conditions
-
+- **Day 09**: made random guessing number game .
 (More days coming 🚀)
 
 ---
